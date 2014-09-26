@@ -1,0 +1,21 @@
+{
+  "name": "app-router-dart",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mattjonesorg/app-router-dart",
+  "authors": [
+    "Matt Jones <github@mattjones.org>"
+  ],
+  "dependencies": {
+    "polymer": "polymer/polymer#0.4.1",
+    "app-router": "app-router#0.9.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/src",
+    "test",
+    "tests"
+  ]
+}
