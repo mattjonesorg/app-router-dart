@@ -5,4 +5,3 @@ This looked like a good app router for polymer:  https://github.com/erikringsmut
 
 So, I used https://pub.dartlang.org/packages/custom_element_apigen to package it up as a dart component.
 
-I hope to get a sample up soon.
