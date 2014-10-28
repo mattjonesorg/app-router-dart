@@ -1,12 +1,11 @@
-name: core_elements
-version: 0.3.0
-author: Polymer.dart Authors <web-ui-dev@dartlang.org>
-description: Polymer core-elements for Dart
-homepage: https://www.dartlang.org/polymer/
+name: app_router_dart
+author: Original element - Erik Ringsmuth <erik.ringsmuth@gmail.com>
+description: Dart port of app-router polymer element
+homepage: http://erikringsmuth.github.io/app-router/
 dependencies:
-  custom_element_apigen: ">= 0.0.2 <0.1.0"
+  custom_element_apigen: ">=0.1.1 <0.2.0"
   polymer: ">=0.14.0 <0.16.0"
-  web_components: ">=0.7.0 <0.8.0"
+  web_components: ">=0.9.0 <0.10.0"
 dev_dependencies:
   unittest: ">=0.11.0+2 <0.12.0"
 environment:
