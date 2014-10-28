@@ -1,8 +1,7 @@
 name: app_router_dart
-version: "0.1"
-author: "Original element - Erik Ringsmuth <erik.ringsmuth@gmail.com>"
-description: "Dart port of app-router polymer element"
-homepage: "http://erikringsmuth.github.io/app-router/"
+author: Original element - Erik Ringsmuth <erik.ringsmuth@gmail.com>
+description: Dart port of app-router polymer element
+homepage: http://erikringsmuth.github.io/app-router/
 dependencies:
   custom_element_apigen: ">= 0.0.2 <0.1.0"
   polymer: ">=0.14.0 <0.16.0"
